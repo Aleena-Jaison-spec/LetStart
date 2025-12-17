@@ -1,11 +1,11 @@
-# LetStart
+
 # 📘 LetStart
 
 > A smart, minimal study companion that helps students organize subjects and track exam deadlines — without stress.
 
 ---
 
-## ✨ LetStart?
+## ✨ Why LetStart?
 
 Students often struggle with:
 - Remembering exam dates 📅  
