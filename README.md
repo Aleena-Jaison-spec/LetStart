@@ -43,13 +43,3 @@ Students often struggle with:
 - **Chrome Extensions API** – Local storage & popup handling  
 
 ---
-
-## 📂 Project Structure
-
-```text
-sylla-switch/
-├── manifest.json
-├── popup.html
-├── popup.css
-├── popup.js
-└── README.md
