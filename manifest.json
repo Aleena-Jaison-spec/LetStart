@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Sylla-Switch",
+  "version": "1.0",
+  "description": "Subject-wise study switcher with exam reminder",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
